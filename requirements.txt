@@ -1,0 +1,30 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+numpy
+pandas
+scikit-learn
+joblib
+
+torch
+transformers
+
+tensorflow
+opencv-python
+pillow
+scipy
+scikit-image
+
+python-dotenv
+tqdm
+requests
+
+
+pip install torch torchvision
+pip install easyocr
+pip install pillow
+pip install requests
+pip install git+https://github.com/openai/CLIP.git
+

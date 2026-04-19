@@ -1,0 +1,40 @@
+# ======================
+# PYTHON BACKEND
+# ======================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# NODE FRONTEND
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# ENV FILES
+# ======================
+.env
+
+# ======================
+# OS FILES
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# LOGS
+# ======================
+*.log
+backend/models/text/*.pth
+backend/models/text/*.pkl
+backend/models/image/*.keras
